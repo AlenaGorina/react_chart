@@ -1,4 +1,4 @@
-# Superheroes gallery
+# superheroes
 
 # React + Vite
 
